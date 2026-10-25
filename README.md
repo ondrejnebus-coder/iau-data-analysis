@@ -11,7 +11,7 @@ the Artificial Intelligence course project at FIIT STU.
 |---|---|---:|
 | `readings.csv` | tab | 12,288 |
 | `units.csv` | comma | 2,000 |
-| `gateways.csv` | semicolon | - |
+| `gateways.csv` | semicolon | 16,000 |
 
 Each row in `readings.csv` is one measurement of an APU unit (14 attributes).
 
